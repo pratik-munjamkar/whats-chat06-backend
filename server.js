@@ -21,7 +21,7 @@ app.use(express.json());
 
 app.use(cors());
 
-const dbUrl = "mongodb+srv://sangeetha:sangeetha123@cluster0.kl6wa.mongodb.net/WhatsAppVS";
+const dbUrl = "mongodb+srv://pra-tik_06:pratik123@cluster0.nwcyp.mongodb.net/WhatsChat-06";
 
 mongoose.connect(dbUrl);
 
